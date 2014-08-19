@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowChart2", "FlowChart2.csproj", "{9D39EBEB-0154-406A-9E2A-2ACE970118CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PK.Controls", "..\PK.Controls\PK.Controls.csproj", "{DDC6FBF3-80AF-4717-8E9A-D270664E8359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PK.Controls", "PK.Controls\PK.Controls.csproj", "{DDC6FBF3-80AF-4717-8E9A-D270664E8359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

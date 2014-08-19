@@ -136,7 +136,7 @@
     <Compile Include="Visitor\NVisitor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PK.Controls\PK.Controls.csproj">
+    <ProjectReference Include="PK.Controls\PK.Controls.csproj">
       <Project>{DDC6FBF3-80AF-4717-8E9A-D270664E8359}</Project>
       <Name>PK.Controls</Name>
     </ProjectReference>
