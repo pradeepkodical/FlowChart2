@@ -1,0 +1,6 @@
+C:\Pradeep\NET\FlowChart2\PK.Controls\bin\Debug\PK.Controls.dll
+C:\Pradeep\NET\FlowChart2\PK.Controls\bin\Debug\PK.Controls.pdb
+C:\Pradeep\NET\FlowChart2\PK.Controls\obj\Debug\PK.Controls.csproj.AssemblyReference.cache
+C:\Pradeep\NET\FlowChart2\PK.Controls\obj\Debug\PK.Controls.csproj.CoreCompileInputs.cache
+C:\Pradeep\NET\FlowChart2\PK.Controls\obj\Debug\PK.Controls.dll
+C:\Pradeep\NET\FlowChart2\PK.Controls\obj\Debug\PK.Controls.pdb
