@@ -1,1 +1,3 @@
-﻿/FileName.cs1
+﻿/.vs/**/*
+/obj/**/*
+/bin/**/*
